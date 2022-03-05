@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Test Amarnath]" guice-stage="DEVELOPMENT">
+  <parameter name="browserName" value="chrome"/>
+  <listeners>
+    <listener class-name="utils.SuiteListener"/>
+  </listeners>
+  <test thread-count="5" name="Amarnath Automation">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="SampleTestPackage.SampleTest"/>
+    </classes>
+  </test> <!-- Amarnath Automation -->
+</suite> <!-- Failed suite [Sample Test Amarnath] -->
