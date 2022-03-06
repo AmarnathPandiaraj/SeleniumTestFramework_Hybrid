@@ -30,9 +30,6 @@
 					<executions>
 						<execution>
 							<phase>deploy</phase>
-							<goals>
-								<goal>war</goal>
-							</goals>
 						</execution>
 					</executions>
 					<!--  Stop -->
