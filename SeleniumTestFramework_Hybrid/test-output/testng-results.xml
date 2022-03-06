@@ -2,16 +2,16 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-06T14:01:37Z" name="Sample Test Amarnath" finished-at="2022-03-06T14:02:00Z" duration-ms="23349">
+  <suite started-at="2022-03-06T14:22:05Z" name="Sample Test Amarnath" finished-at="2022-03-06T14:22:32Z" duration-ms="27422">
     <groups>
     </groups>
-    <test started-at="2022-03-06T14:01:37Z" name="Amarnath Automation" finished-at="2022-03-06T14:02:00Z" duration-ms="23349">
+    <test started-at="2022-03-06T14:22:05Z" name="Amarnath Automation" finished-at="2022-03-06T14:22:32Z" duration-ms="27422">
       <class name="SampleTestPackage.SampleTest">
-        <test-method is-config="true" signature="beforeTestMethos()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:31:37Z" name="beforeTestMethos" finished-at="2022-03-06T19:31:37Z" duration-ms="187" status="PASS">
+        <test-method is-config="true" signature="beforeTestMethos()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:52:05Z" name="beforeTestMethos" finished-at="2022-03-06T19:52:05Z" duration-ms="484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestMethos -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String, java.lang.reflect.Method)[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:31:37Z" name="beforeMethodMethod" finished-at="2022-03-06T19:31:58Z" duration-ms="20615" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String, java.lang.reflect.Method)[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:52:05Z" name="beforeMethodMethod" finished-at="2022-03-06T19:52:28Z" duration-ms="22846" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,11 +27,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="sampleMethodforEmailEntering()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:31:58Z" name="sampleMethodforEmailEntering" finished-at="2022-03-06T19:31:58Z" duration-ms="290" status="PASS">
+        <test-method signature="sampleMethodforEmailEntering()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:52:28Z" name="sampleMethodforEmailEntering" finished-at="2022-03-06T19:52:29Z" duration-ms="1394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sampleMethodforEmailEntering -->
-        <test-method is-config="true" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:31:58Z" name="afterTestMethod" finished-at="2022-03-06T19:32:00Z" duration-ms="1927" status="PASS">
+        <test-method is-config="true" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:52:29Z" name="afterTestMethod" finished-at="2022-03-06T19:52:31Z" duration-ms="1118" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTestMethod -->
-        <test-method is-config="true" signature="AfterMethodMethod()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:32:00Z" name="AfterMethodMethod" finished-at="2022-03-06T19:32:00Z" duration-ms="329" status="PASS">
+        <test-method is-config="true" signature="AfterMethodMethod()[pri:0, instance:SampleTestPackage.SampleTest@385e9564]" started-at="2022-03-06T19:52:31Z" name="AfterMethodMethod" finished-at="2022-03-06T19:52:32Z" duration-ms="1563" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethodMethod -->
